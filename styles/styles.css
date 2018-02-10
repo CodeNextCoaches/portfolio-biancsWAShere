@@ -1,1 +1,11 @@
+.jumbotron {
+  background-image: url("../images/background.jpg");
+  background-position: center;
+  background-size: cover;
+}
 
+.header-text{
+  font-family: 'League Script';font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
